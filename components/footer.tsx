@@ -82,7 +82,7 @@ export function Footer() {
         </div>
 
         <div className="mt-8 border-t border-border pt-8 text-center text-sm text-muted-foreground">
-          <p>&copy; 2025 Blinkit RePack. All rights reserved. This is a prototype demonstration.</p>
+          <p> Blinkit RePack Desing by Omkale </p>
         </div>
       </div>
     </footer>
